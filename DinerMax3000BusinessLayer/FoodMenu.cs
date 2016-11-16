@@ -9,5 +9,6 @@ namespace DinerMax3000.Business
     public class FoodMenu:Menu
     {
         public string HospitalDirections;
+        /*test git*/
     }
 }
